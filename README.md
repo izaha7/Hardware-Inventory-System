@@ -1,2 +1,2 @@
-# Hardware-Inventory-System
-An inventory system for a fictional hardware store that stores several variables that are updated via Python and SQL featuring SQLite3. This project incorporates a functional programming approach.
+# Tax Return System
+A tax return system that stores data regarding tax return such as tax filing assistant, CPA, tax returns, and Clients. Follows an object-oriented approach.
